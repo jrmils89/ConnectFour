@@ -1,2 +1,2 @@
-The checkboard pieces come from this app. https://play.google.com/store/apps/details?id=com.thaicheckers
-Down Arrow From http://uxrepo.com/static/icon-sets/flat-arrows/svg/flat-circle-chevron-down-arrow.svg
+This repo was migrated over to here:
+https://github.com/jrmils89/jrmils89.github.io/tree/master/ConnectFour
